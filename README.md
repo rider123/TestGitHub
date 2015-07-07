@@ -1,2 +1,3 @@
 # TestGitHub
-Github Tutorial
+
+This github is repository for showing bare minimum of github function
